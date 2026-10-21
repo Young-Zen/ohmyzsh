@@ -1,0 +1,215 @@
+{
+  "id": "2026-10-20-221439",
+  "generated_at": "2026-10-20T14:14:39.906452Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-lan-she-qu-qu-dong-de-zsh-pei-zhi-guan-li-kuang-jia",
+      "title": "项目概览：社区驱动的 Zsh 配置管理框架",
+      "file": "1-xiang-mu-gai-lan-she-qu-qu-dong-de-zsh-pei-zhi-guan-li-kuang-jia.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-kai-shi-jian-an-zhuang-yu-shou-ci-yun-xing",
+      "title": "快速开始：一键安装与首次运行",
+      "file": "2-kuai-su-kai-shi-jian-an-zhuang-yu-shou-ci-yun-xing.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-zhang-wo-zshrc-zhu-ti-cha-jian-yu-he-xin-pei-zhi-xiang-xiang-jie",
+      "title": "掌握 .zshrc：主题、插件与核心配置项详解",
+      "file": "3-zhang-wo-zshrc-zhu-ti-cha-jian-yu-he-xin-pei-zhi-xiang-xiang-jie.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-cha-jian-de-qi-yong-jin-yong-yu-ri-chang-shi-yong",
+      "title": "插件的启用、禁用与日常使用",
+      "file": "4-cha-jian-de-qi-yong-jin-yong-yu-ri-chang-shi-yong.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-zhu-ti-de-liu-lan-qie-huan-yu-sui-ji-zhu-ti",
+      "title": "主题的浏览、切换与随机主题",
+      "file": "5-zhu-ti-de-liu-lan-qie-huan-yu-sui-ji-zhu-ti.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "6-omz-ming-ling-xing-gong-ju-geng-xin-cha-jian-yu-zhu-ti-guan-li",
+      "title": "omz 命令行工具：更新、插件与主题管理",
+      "file": "6-omz-ming-ling-xing-gong-ju-geng-xin-cha-jian-yu-zhu-ti-guan-li.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "7-an-zhuang-jiao-ben-shen-du-xuan-xiang-huan-jing-bian-liang-yu-wu-ren-zhi-shou-an-zhuang",
+      "title": "安装脚本深度选项：环境变量与无人值守安装",
+      "file": "7-an-zhuang-jiao-ben-shen-du-xuan-xiang-huan-jing-bian-liang-yu-wu-ren-zhi-shou-an-zhuang.md",
+      "section": "入门指南",
+      "group": "安装进阶",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-sheng-ji-xie-zai-yu-chang-jian-an-zhuang-wen-ti-pai-cha",
+      "title": "升级、卸载与常见安装问题排查",
+      "file": "8-sheng-ji-xie-zai-yu-chang-jian-an-zhuang-wen-ti-pai-cha.md",
+      "section": "入门指南",
+      "group": "安装进阶",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-zheng-ti-jia-gou-yu-mu-lu-zhi-ze-hua-fen",
+      "title": "整体架构与目录职责划分",
+      "file": "9-zheng-ti-jia-gou-yu-mu-lu-zhi-ze-hua-fen.md",
+      "section": "深入解析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-qi-dong-jia-zai-liu-cheng-oh-my-zsh-sh-zhu-jiao-ben-zhu-duan-jie-du",
+      "title": "启动加载流程：oh-my-zsh.sh 主脚本逐段解读",
+      "file": "10-qi-dong-jia-zai-liu-cheng-oh-my-zsh-sh-zhu-jiao-ben-zhu-duan-jie-du.md",
+      "section": "深入解析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "11-bu-quan-xi-tong-compinit-yu-zcompdump-huan-cun-you-hua",
+      "title": "补全系统：compinit 与 zcompdump 缓存优化",
+      "file": "11-bu-quan-xi-tong-compinit-yu-zcompdump-huan-cun-you-hua.md",
+      "section": "深入解析",
+      "group": "核心库 lib",
+      "level": "Advanced"
+    },
+    {
+      "slug": "12-an-quan-fang-xian-compfix-yu-bu-quan-mu-lu-quan-xian-jian-cha",
+      "title": "安全防线：compfix 与补全目录权限检查",
+      "file": "12-an-quan-fang-xian-compfix-yu-bu-quan-mu-lu-quan-xian-jian-cha.md",
+      "section": "深入解析",
+      "group": "核心库 lib",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-jian-bang-ding-li-shi-ji-lu-yu-mu-lu-dao-hang-ti-yan",
+      "title": "键绑定、历史记录与目录导航体验",
+      "file": "13-jian-bang-ding-li-shi-ji-lu-yu-mu-lu-dao-hang-ti-yan.md",
+      "section": "深入解析",
+      "group": "核心库 lib",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "14-yan-se-wai-guan-jian-tie-ban-yu-tong-yong-fu-zhu-han-shu",
+      "title": "颜色外观、剪贴板与通用辅助函数",
+      "file": "14-yan-se-wai-guan-jian-tie-ban-yu-tong-yong-fu-zhu-han-shu.md",
+      "section": "深入解析",
+      "group": "核心库 lib",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "15-bie-ming-ti-xi-yu-zstyle-ding-zhi-kai-guan-an-mo-kuai-tiao-guo-bie-ming",
+      "title": "别名体系与 zstyle 定制开关（按模块跳过别名）",
+      "file": "15-bie-ming-ti-xi-yu-zstyle-ding-zhi-kai-guan-an-mo-kuai-tiao-guo-bie-ming.md",
+      "section": "深入解析",
+      "group": "核心库 lib",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "16-cha-jian-jia-zai-ji-zhi-yu-kai-fa-ming-ming-yue-ding",
+      "title": "插件加载机制与开发命名约定",
+      "file": "16-cha-jian-jia-zai-ji-zhi-yu-kai-fa-ming-ming-yue-ding.md",
+      "section": "深入解析",
+      "group": "插件体系",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-bu-quan-jiao-ben-_command-wen-jian-bian-xie-shi-jian",
+      "title": "补全脚本（_command 文件）编写实践",
+      "file": "17-bu-quan-jiao-ben-_command-wen-jian-bian-xie-shi-jian.md",
+      "section": "深入解析",
+      "group": "插件体系",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-jing-dian-cha-jian-jie-xi-git-extract-fzf-yu-shi-yong-gong-ju-lei",
+      "title": "经典插件解析：git、extract、fzf 与实用工具类",
+      "file": "18-jing-dian-cha-jian-jie-xi-git-extract-fzf-yu-shi-yong-gong-ju-lei.md",
+      "section": "深入解析",
+      "group": "插件体系",
+      "level": "Beginner"
+    },
+    {
+      "slug": "19-nei-zhi-sheng-tai-yu-fa-gao-liang-yu-zi-dong-jian-yi-di-san-fang-kuang-jia",
+      "title": "内置生态：语法高亮与自动建议第三方框架",
+      "file": "19-nei-zhi-sheng-tai-yu-fa-gao-liang-yu-zi-dong-jian-yi-di-san-fang-kuang-jia.md",
+      "section": "深入解析",
+      "group": "插件体系",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "20-zhu-ti-bian-xie-gui-fan-cong-robbyrussell-dao-agnoster",
+      "title": "主题编写规范：从 robbyrussell 到 agnoster",
+      "file": "20-zhu-ti-bian-xie-gui-fan-cong-robbyrussell-dao-agnoster.md",
+      "section": "深入解析",
+      "group": "主题体系",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-yi-bu-git-ti-shi-fu-yu-da-xing-cang-ku-xing-neng-you-hua",
+      "title": "异步 Git 提示符与大型仓库性能优化",
+      "file": "21-yi-bu-git-ti-shi-fu-yu-da-xing-cang-ku-xing-neng-you-hua.md",
+      "section": "深入解析",
+      "group": "主题体系",
+      "level": "Advanced"
+    },
+    {
+      "slug": "22-zi-dong-geng-xin-ji-zhi-quan-jie-geng-xin-mo-shi-yu-pin-lu-kong-zhi",
+      "title": "自动更新机制全解：更新模式与频率控制",
+      "file": "22-zi-dong-geng-xin-ji-zhi-quan-jie-geng-xin-mo-shi-yu-pin-lu-kong-zhi.md",
+      "section": "深入解析",
+      "group": "更新与运维",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "23-qi-dong-xing-neng-you-hua-jian-shao-fork-yu-huan-cun-ce-lue",
+      "title": "启动性能优化：减少 fork 与缓存策略",
+      "file": "23-qi-dong-xing-neng-you-hua-jian-shao-fork-yu-huan-cun-ce-lue.md",
+      "section": "深入解析",
+      "group": "更新与运维",
+      "level": "Advanced"
+    },
+    {
+      "slug": "24-zhen-duan-zhuan-chu-omz_diagnostic_dump-yu-gu-zhang-pai-cha",
+      "title": "诊断转储 omz_diagnostic_dump 与故障排查",
+      "file": "24-zhen-duan-zhuan-chu-omz_diagnostic_dump-yu-gu-zhang-pai-cha.md",
+      "section": "深入解析",
+      "group": "更新与运维",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "25-gong-xian-zhi-nan-issue-gui-fan-yu-ti-jiao-ge-shi",
+      "title": "贡献指南、Issue 规范与提交格式",
+      "file": "25-gong-xian-zhi-nan-issue-gui-fan-yu-ti-jiao-ge-shi.md",
+      "section": "深入解析",
+      "group": "贡献与生态",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "26-zi-ding-yi-cha-jian-yu-zhu-ti-zsh_custom-mu-lu-shi-jian",
+      "title": "自定义插件与主题：ZSH_CUSTOM 目录实践",
+      "file": "26-zi-ding-yi-cha-jian-yu-zhu-ti-zsh_custom-mu-lu-shi-jian.md",
+      "section": "深入解析",
+      "group": "贡献与生态",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "27-ce-shi-ti-xi-zunit-yu-ci-gong-zuo-liu-jie-xi",
+      "title": "测试体系（zunit）与 CI 工作流解析",
+      "file": "27-ce-shi-ti-xi-zunit-yu-ci-gong-zuo-liu-jie-xi.md",
+      "section": "深入解析",
+      "group": "贡献与生态",
+      "level": "Advanced"
+    }
+  ]
+}
